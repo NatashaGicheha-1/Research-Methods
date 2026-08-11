@@ -90,7 +90,7 @@
 
 ---
 
-# Sampling Methods
+# *Sampling Methods*
 
 ## Question 7
 
@@ -242,7 +242,7 @@
 
 ---
 
-# Data Collection Methods
+# *Data Collection Methods*
 
 ## Question 17
 
@@ -453,9 +453,8 @@
 **Explanation:** Likert scales measure opinions through levels of agreement or disagreement.
 
 ---
-# Answers to GRM End Semester Revision
 
-# Research Quality & Ethics
+# *Research Quality & Ethics*
 
 ## Question 31
 
@@ -606,7 +605,7 @@ Researchers must anticipate potential risks and implement safeguards.
 
 ---
 
-# Research Reporting, Application & Evaluation
+# *Research Reporting, Application & Evaluation*
 
 ## Question 37
 
@@ -710,7 +709,7 @@ Researchers must carefully evaluate consequences and ethical standards.
 
 ---
 
-# Applied Research Questions
+# *Applied Research Questions*
 
 ## Question 41
 
@@ -844,7 +843,7 @@ As a result:
 
 ---
 
-# Research Ethics in Practice
+# *Research Ethics in Practice*
 
 ## Question 47
 
@@ -892,7 +891,7 @@ It acts as a safeguard for research participants.
 
 ---
 
-# Research Analysis & Interpretation
+# *Research Analysis & Interpretation*
 
 ## Question 49
 
