@@ -1,5 +1,9 @@
 # Answers to GRM End Semester Revision
+* **🌟Don't worry, you will do great.🌟**.
+* 🌸Bié dānxīn, nǐ huì zuò dé hěn hǎo.🌸*
+* 别担心,你会做得很好。
 
+---------
 ## Question 1
 
 ### Which assumption best aligns with qualitative research?
@@ -303,7 +307,11 @@
 **Explanation:** Surveys commonly collect structured numerical data from large groups.
 
 ---
+* **👍Keep going, you got this👍.**
+* Jiāyóu, nǐ kěyǐ de!*
+* 加油,你可以的！
 
+--------------------------
 ## Question 21
 
 ### Experiments are designed to establish:
