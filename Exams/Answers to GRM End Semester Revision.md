@@ -15,7 +15,8 @@
 
 **Answer:** B. Reality is socially constructed and subjective
 
-**Explanation:** Qualitative research assumes that reality is shaped by individual experiences, perceptions, and social interactions. Different people may interpret the same event in different ways.
+* **Explanation:** Qualitative research assumes that reality is shaped by individual experiences, perceptions, and social interactions.
+* Different people may interpret the same event in different ways.
 
 ---
 
@@ -30,7 +31,8 @@
 
 **Answer:** C. Positivism
 
-**Explanation:** Positivism emphasizes objective measurement, observation, and scientific testing. Quantitative research relies on numerical data and statistical analysis.
+* **Explanation:** Positivism emphasizes objective measurement, observation, and scientific testing.
+* Quantitative research relies on numerical data and statistical analysis.
 
 ---
 
@@ -477,7 +479,8 @@
 **B. Test and refine research instruments**
 
 ### Detailed Explanation:
-Pilot testing is a small-scale trial run of a research study conducted before the main research begins. It helps researchers identify weaknesses or problems in questionnaires, interview guides, surveys, or research procedures.
+* Pilot testing is a small-scale trial run of a research study conducted before the main research begins.
+* It helps researchers identify weaknesses or problems in questionnaires, interview guides, surveys, or research procedures.
 
 Benefits of pilot testing include:
 - Identifying unclear or confusing questions
@@ -509,7 +512,8 @@ Generally:
 - 0.7 and above = Acceptable reliability
 - 0.8 and above = Good reliability
 
-**Example:** If a questionnaire is measuring customer satisfaction, all questions should consistently reflect satisfaction. Cronbach's Alpha assesses that consistency.
+* **Example:** If a questionnaire is measuring customer satisfaction, all questions should consistently reflect satisfaction.
+* Cronbach's Alpha assesses that consistency.
 
 ---
 
@@ -589,27 +593,23 @@ IRB approval is usually required before data collection begins.
 ---
 
 ## Question 36
+### Which research ethics principle is associated with the concept of "do no harm"?
+* A. Justice.
+* B. Respect.
+* C. Integrity.
+* D. Beneficence ✅
 
-### The principle of "do no harm" refers to?
+### Answer: 
+✅ D. Beneficence
 
-- A. Avoiding harm to research participants ✅
-- B. Avoiding data analysis
-- C. Eliminating all research risks
-- D. Avoiding publication
+### Detailed Explanation
+* **Beneficence** is the ethical principle that requires researchers to maximize benefits and minimize potential harms to participants.
+  * The idea of "do no harm" is a core aspect of beneficence.
+  * Beneficence focuses on protecting participants from harm and promoting their well-being.
+* **Justice** focuses on fairness in the distribution of research benefits and burdens.
+* **Respect** focuses on autonomy, informed consent, and treating participants with dignity.
+* **Integrity** focuses on honesty, accuracy, and ethical conduct in research.
 
-### Answer:
-**A. Avoiding harm to research participants**
-
-### Detailed Explanation:
-The principle of "Do No Harm" requires researchers to minimize risks and avoid causing physical, social, psychological, emotional, or economic harm.
-
-Types of harm:
-- Physical harm
-- Emotional distress
-- Social embarrassment
-- Financial loss
-
-Researchers must anticipate potential risks and implement safeguards.
 
 ---
 
@@ -1055,7 +1055,7 @@ Examples include bar charts, pie charts, histograms, and line graphs.
 
 ## Question 56
 
-### The citation style used is:
+### The citation style commonly used is Academic Writing is?
 
 - A. MLA
 - B. Chicago
@@ -1171,36 +1171,158 @@ Triangulation increases the trustworthiness of research by:
 Because evidence comes from more than one source, conclusions become more convincing and dependable.
 
 ---
+* 🌟 Success is the sum of small efforts, repeated day in and day out.🌟
+* Chénggōng shì rì fù yī rì chóngfù de diǎndiǎn nǔlì de zǒnghé.
+* 成功是日复一日重复的点点努力的总和。 
+---
 
 # Quick Revision Tips
+# 🔥 Ultra-Quick Exam Recall
+* Positivism → Quantitative.
+* Subjective Reality → Qualitative.
+* Every Subgroup → Stratified.
+* Entire Groups → Cluster.
+* Every kth Item → Systematic.
+* Referrals → Snowball.
+* Easy Access → Convenience.
+* Consistency → Reliability.
+* Accuracy → Validity.
+* Internal Consistency → Cronbach's Alpha.
+* Do No Harm → Beneficence.
+* Voluntary Participation → Informed Consent.
+* Multiple Methods → Triangulation.
+* Cause and Effect → Experiment.
+* Predict Relationships → Regression.
+* Themes → Coding / Thematic Analysis.
+* Academic Referencing → APA Style
 
-## Reliability vs Validity
+---
+## 🔬 Research Paradigms
 
-- **Reliability = Consistency**
-- **Validity = Accuracy**
+✅ **Positivism** → Quantitative Research
 
-**Example:** A weighing scale that always adds 5 kg is reliable but not valid.
+✅ **Subjective Reality** → Qualitative Research
+
+✅ **Mixed Methods** → Qualitative + Quantitative
 
 ---
 
-## Probability Sampling
+## 📊 Sampling Methods
 
-- Simple Random Sampling
-- Systematic Sampling
-- Stratified Sampling
-- Cluster Sampling
+🎯 **Simple Random Sampling**
+- Everyone has an equal chance.
 
-Uses random selection.
+🔢 **Systematic Sampling**
+- Select every **kth** item.
+
+🧩 **Stratified Sampling**
+- Divide population into subgroups (strata).
+- Sample from **every subgroup**.
+
+🏘️ **Cluster Sampling**
+- Select entire groups (clusters).
+- Study all or many members within selected groups.
+
+🤝 **Snowball Sampling**
+- Participants recruit other participants.
+
+🚶 **Convenience Sampling**
+- Select participants who are easiest to access.
+
+📋 **Quota Sampling**
+- Stratified sampling without random selection.
 
 ---
 
-## Non-Probability Sampling
+## 🎯 Reliability vs Validity
 
-- Convenience Sampling
-- Purposive Sampling
-- Snowball Sampling
-- Quota Sampling
+🔄 **Reliability = Consistency**
+- Produces the same results repeatedly.
 
-Does not use random selection.
+🎯 **Validity = Accuracy**
+- Measures what it is intended to measure.
 
---
+💡 **Memory Trick:**
+- Reliability = Repeatability
+- Validity = Value/Correctness
+
+---
+
+## 📈 Research Analysis
+
+📌 **Regression Analysis**
+- Examines relationships between variables.
+- Predicts outcomes.
+
+🏷️ **Coding**
+- Grouping responses into categories and themes.
+
+🧠 **Thematic Analysis**
+- Identifying patterns and themes in qualitative data.
+
+📊 **Descriptive Statistics**
+- Mean
+- Median
+- Percentages
+- Standard Deviation
+
+🌍 **Inferential Statistics**
+- Generalizing from a sample to a population.
+
+---
+
+## 📝 Data Collection Methods
+
+🎤 **Interview**
+- Detailed experiences and perspectives.
+
+👥 **Focus Group**
+- Opinions, discussions, perceptions.
+
+👀 **Observation**
+- Actual behavior in real settings.
+
+📋 **Survey**
+- Quantitative data collection.
+
+🧪 **Experiment**
+- Establishes cause-and-effect relationships.
+
+---
+
+## ⚖️ Research Ethics
+
+✅ **Beneficence**
+- "Do No Harm"
+
+✅ **Informed Consent**
+- Voluntary participation based on adequate information.
+
+✅ **Confidentiality**
+- Protecting participants' private information.
+
+✅ **IRB / Ethics Committee**
+- Ensures ethical compliance.
+
+✅ **Ethical Dilemma**
+- Conflict between competing ethical principles.
+
+---
+
+## 📑 Research Quality
+
+🧪 **Pilot Testing**
+- Tests and refines research instruments.
+
+📏 **Cronbach's Alpha**
+- Measures internal consistency reliability.
+
+🔺 **Triangulation**
+- Using multiple methods or sources.
+
+⭐ **Triangulation Improves:**
+- Reliability
+- Validity
+- Credibility
+
+
